@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-kumbh-sans: "Kumbh Sans";
+
+  /* font sizes */
+  --font-size-16xl-5: 35.5px;
+  --font-size-smi-4: 12.4px;
+  --font-size-2xs-7: 10.7px;
+  --font-size-3xs-8: 9.8px;
+  --font-size-xs-6: 11.6px;
+  --font-size-2xl-3: 21.3px;
+  --font-size-25xl-4: 44.4px;
+  --font-size-mini-2: 14.2px;
+  --font-size-16xl-6: 35.6px;
+  --font-size-7xl-7: 26.7px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-darkslateblue: #393f78;
+  --color-gray-100: #212121;
+  --color-gray-200: rgba(255, 255, 255, 0.5);
+  --color-darkslategray: #333;
+  --color-whitesmoke-100: #f5f7fa;
+  --color-whitesmoke-200: #f5f5f5;
+
+  /* Gaps */
+  --gap-mini-2: 14.2px;
+  --gap-5xs-1: 7.1px;
+  --gap-45xl: 64px;
+  --gap-9xs-6: 3.6px;
+
+  /* Paddings */
+  --padding-3xs: 10px;
+  --padding-2xs-6: 10.6px;
+  --padding-2xl-3: 21.3px;
+  --padding-38xl: 57px;
+  --padding-2xl: 21px;
+  --padding-mini-2: 14.2px;
+  --padding-9xl-4: 28.4px;
+  --padding-2xs-7: 10.7px;
+
+  /* Border radiuses */
+  --br-4xs-9: 8.9px;
+  --br-mid-8: 17.8px;
+  --br-69xl-9: 88.9px;
+}
